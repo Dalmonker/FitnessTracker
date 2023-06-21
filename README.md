@@ -1,3 +1,3 @@
-# https://pqvel.github.io/lendingTracker/
+# https://dalmonker.github.io/FitnessTracker/
 
 lending, html, css, js, scss
